@@ -14,6 +14,9 @@
 
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/seetharamSRS&theme=dark)](https://git.io/awesome-stats-card)
+
+
 ![](https://github-readme-stats.vercel.app/api?username=SeetharamSRS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SeetharamSRS&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeetharamSRS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
