@@ -13,13 +13,18 @@
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SeetharamSRS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SeetharamSRS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeetharamSRS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-   
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<a href="https://github.com/seetharamSRS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seetharamSRS&theme=light" />
-</a>
-<a href="https://github.com/seetharamSRS">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=seetharamSRS&show_icons=true&theme=light&line_height=27" alt="Seetharam's github stats"/>
-</a>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SeetharamSRS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SeetharamSRS&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
