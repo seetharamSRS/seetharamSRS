@@ -16,15 +16,13 @@
   
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=seetharamSRS&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seetharamSRS&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SeetharamSRS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=seetharamSRS&limit=50&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SeetharamSRS&icon=0&color=0)](https://visitcount.itsvg.in)
