@@ -16,6 +16,8 @@
   
 # 📊 GitHub Stats:
 
+![Stats](https://github-readme-stats.vercel.app/api?username=seetharamSRS&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seetharamSRS&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
