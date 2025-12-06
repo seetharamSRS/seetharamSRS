@@ -13,13 +13,13 @@
 
 
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=cobalt&preferLogin=false&Title=DD2727">    <img  alt="seetharamSRS's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/seetharamSRS?cardType=level&theme=cobalt&preferLogin=false&Title=DD2727" />  </a>
-
+  
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=SeetharamSRS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SeetharamSRS&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SeetharamSRS&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![stats2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seetharamSRS&theme=tokyonight)
+
+![productive](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seetharamSRS&theme=tokyonight)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
