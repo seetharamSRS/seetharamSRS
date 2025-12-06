@@ -16,10 +16,7 @@
   
 # 📊 GitHub Stats:
 
-![stats2](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seetharamSRS&theme=tokyonight)
-
-![productive](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seetharamSRS&theme=tokyonight)
-
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seetharamSRS&theme=tokyonight)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
